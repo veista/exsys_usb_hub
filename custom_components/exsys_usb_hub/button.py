@@ -16,7 +16,7 @@ ATTRIBUTE_TO_BUTTONS = [
 
 
 async def async_setup_entry(HomeAssistant, config_entry, async_add_entities):
-    """Set up the number platform."""
+    """Set up the button platform."""
     device = HomeAssistant.data[DOMAIN][config_entry.entry_id]
     buttons = []
     for attribute in ATTRIBUTE_TO_BUTTONS:
