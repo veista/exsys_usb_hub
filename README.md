@@ -3,6 +3,8 @@ Exsys Managed USB Hub integration for Home Assistant
 
 Should support all Exsys Managed USB Hubs from 4-16 ports that use USB-Serial management. Only tested with EX-1504HMS.
 
+This integration and a managed hub is especially handy if you have an unreliable usb device, for example Z-Wave dongle in a remote location or you want to automate its recovery.
+
 ![image](https://github.com/user-attachments/assets/3e85e21f-c66d-4eea-877f-a36e4989f86e)
 
 ## Installation
