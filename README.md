@@ -1,7 +1,9 @@
 # Exsys USB Hub
 Exsys Managed USB Hub integration for Home Assistant
 
-Should support all Exsys Managed USB Hubs that use USB-Serial management, but only tested with EX-1504HMS.
+Should support all Exsys Managed USB Hubs from 4-16 ports that use USB-Serial management. Only tested with EX-1504HMS.
+
+![image](https://github.com/user-attachments/assets/3e85e21f-c66d-4eea-877f-a36e4989f86e)
 
 ## Installation
 ### Manually
